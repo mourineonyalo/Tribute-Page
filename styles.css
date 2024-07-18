@@ -26,22 +26,13 @@ header {
 
 .img-div {
   background-color: azure;
-  padding: 0 10px;
-  
+  padding: 0 10px; 
 }
 
 main {
   padding: 0;
   border: 0;
   border: 3px solid none;
-  text-align: center;
-
-}
-
-li {
-  margin: 10px 0;
-  display: list-item;
-  justify-content: center;
   text-align: center;
 }
 
@@ -52,4 +43,5 @@ li {
   width: 95%;
   padding: 5px 20px;
   background-color: #92929c;
+  border-radius: 2%;
 }
